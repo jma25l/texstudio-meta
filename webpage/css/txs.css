@@ -68,6 +68,14 @@ td {
 	vertical-align: top;
 }
 
+.news-content > img{
+	max-width: 100%;
+}
+
+.img-block-right > img{
+	max-width: 200px;
+}
+
 .img-right {
 	float: right;
 	margin-left: 2em;
